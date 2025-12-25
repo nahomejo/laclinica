@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node11" apprev="20986" appversion="7.1.8">
+  <panorama hideabout="1" id="node11">
+    <input levelingpitch="0" height="3583" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3583">
+      <level height="3583" width="3583" predecode="0" preload="0"/>
+      <level height="1791" width="1791" predecode="0" preload="0"/>
+      <level height="895" width="895" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="211.319">
+      <start pan="-38.6557" projection="4" fov="70" tilt="11.6843"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7682498,46.6216388,3a,75y,211.32h,90t/data=!3m4!1e1!3m2!1sCIABIhCw_4oDJR80llmZFJ--MynD!2e10" comment="" nodeid="node11" description="" info="" datetime="2025-11-09 17:34" tags="drive-download-20251109T122555Z-1-001" longitude="46.62163880" heading="211.319" title="Entrance" author="" source="" latitude="24.76824981"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-38.48" target="-179.5/-2.2/70.0" distance="5.16958" description="" tilt="-1.86" url="{node3}" title="Reception" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input levelingpitch="0" height="3576" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3576">
+      <level height="3576" width="3576" predecode="0" preload="0"/>
+      <level height="1788" width="1788" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="61.4202">
+      <start pan="-94.7493" projection="4" fov="70" tilt="-3.25495"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.76823,46.6215925,3a,75y,61.42h,90t/data=!3m4!1e1!3m2!1sCIABIhD_A_t_sf2fZAVMaLIodSw-!2e10" comment="" nodeid="node3" description="" info="" datetime="2025-11-09 17:34" tags="drive-download-20251109T122555Z-1-001" longitude="46.62159249" heading="61.4202" title="Reception" author="" source="" latitude="24.76822998"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-4.41" target="-42.9/2.3/70.0" distance="5.16958" description="" tilt="-2.27" url="{node11}" title="Entrance" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-178.33" target="15.3/-0.8/70.0" distance="4.54013" description="" tilt="-4.6" url="{node1}" title="Reception" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node1">
+    <input levelingpitch="0" height="3578" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3578">
+      <level height="3578" width="3578" predecode="0" preload="0"/>
+      <level height="1789" width="1789" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-96.711">
+      <start pan="14.7249" projection="4" fov="70" tilt="-2.90176"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7682084,46.6215543,3a,75y,263.29h,90t/data=!3m4!1e1!3m2!1sCIABIhByrw_X7O46hwRfoxIaztNH!2e10" comment="" nodeid="node1" description="" info="" datetime="2025-11-09 14:20" tags="drive-download-20251109T122555Z-1-001" longitude="46.62155431" heading="-96.711" title="Reception" author="" source="" latitude="24.76820841"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-132.77" target="-5.2/-4.1/70.0" distance="4.54013" description="" tilt="-5.1" url="{node3}" title="Reception" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-218.04" target="148.6/-9.9/70.0" distance="4.95958" description="" tilt="-2.54" url="{node21}" title="Hallway" id="Point02"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-269.25" target="29.1/-6.7/70.0" distance="5.52489" description="" tilt="0.36" url="{node20}" title="Hallway" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node21">
+    <input levelingpitch="0" height="3578" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3578">
+      <level height="3578" width="3578" predecode="0" preload="0"/>
+      <level height="1789" width="1789" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-420.873">
+      <start pan="148.653" projection="4" fov="70" tilt="-1.28029"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681828,46.6215945,3a,75y,299.13h,90t/data=!3m4!1e1!3m2!1sCIABIhCHl5UFifMwEP8SG0ajDyWY!2e10" comment="" nodeid="node21" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62159455" heading="-420.873" title="Hallway" author="" source="" latitude="24.76818283"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-355.06" target="-46.5/-3.5/70.0" distance="4.95958" description="" tilt="-0.89" url="{node1}" title="Reception" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-170.64" target="-88.8/-2.3/70.0" distance="2.79037" description="" tilt="-3.77" url="{node16}" title="Hallway" id="Point02"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-106.36" target="" distance="3.15757" description="" tilt="1.37" url="{node15}" title="Hallway" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input levelingpitch="0" height="3576" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3576">
+      <level height="3576" width="3576" predecode="0" preload="0"/>
+      <level height="1788" width="1788" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-406.962">
+      <start pan="158.491" projection="4" fov="70" tilt="-1.06374"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7682072,46.6216106,3a,75y,313.04h,90t/data=!3m4!1e1!3m2!1sCIABIhBu8qafgLrXGj7dkbjvzfCc!2e10" comment="" nodeid="node15" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62161064" heading="-406.962" title="Hallway" author="" source="" latitude="24.76820718"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-210.04" target="72.8/-4.9/70.0" distance="3.90715" description="" tilt="-1.08" url="{node16}" title="Hallway" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input levelingpitch="0" height="3580" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3580">
+      <level height="3580" width="3580" predecode="0" preload="0"/>
+      <level height="1790" width="1790" predecode="0" preload="0"/>
+      <level height="895" width="895" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="20.711">
+      <start pan="-136.721" projection="4" fov="70" tilt="-3.05529"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681731,46.62162,3a,75y,20.71h,90t/data=!3m4!1e1!3m2!1sCIABIhDeBm6Muk9SoNp1pa7QGwai!2e10" comment="" nodeid="node16" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62162002" heading="20.711" title="Hallway" author="" source="" latitude="24.76817309"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-281.44" target="-24.3/0.3/70.0" distance="2.79037" description="" tilt="-2.54" url="{node21}" title="Hallway" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-136.55" target="-139.2/-2.6/70.0" distance="2.86878" description="" tilt="-0.21" url="{node6}" title="Hallway" id="Point02"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-46.77" target="-27.1/-4.2/70.5" distance="2.07727" description="" tilt="-2.33" url="{node12}" title="Photo Lab" id="Point03"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-317.19" target="" distance="3.90715" description="" tilt="-2.28" url="{node15}" title="Hallway" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input levelingpitch="0" height="3581" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3581">
+      <level height="3581" width="3581" predecode="0" preload="0"/>
+      <level height="1790" width="1790" predecode="0" preload="0"/>
+      <level height="895" width="895" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="37.877">
+      <start pan="-178.294" projection="4" fov="70" tilt="0.12194"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681792,46.6216395,3a,75y,37.88h,90t/data=!3m4!1e1!3m2!1sCIABIhB3c3d9XuDC8hBrTUBdSHxo!2e10" comment="" nodeid="node12" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62163947" heading="37.877" title="Photo Lab" author="" source="" latitude="24.76817918"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-210.78" target="72.8/-1.8/70.0" distance="2.07727" description="" tilt="-6.51" url="{node16}" title="Hallway" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input levelingpitch="0" height="3584" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3584">
+      <level height="3584" width="3584" predecode="0" preload="0"/>
+      <level height="1792" width="1792" predecode="0" preload="0"/>
+      <level height="896" width="896" predecode="0" preload="0"/>
+      <level height="448" width="448" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="191.653">
+      <start pan="-112.235" projection="4" fov="70" tilt="-1.56054"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681487,46.6216294,3a,75y,191.65h,90t/data=!3m4!1e1!3m2!1sCIABIhCx9LNAI1KwXyMFVIx2T-4o!2e10" comment="" nodeid="node6" description="" info="" datetime="2025-11-09 17:34" tags="drive-download-20251109T122555Z-1-001" longitude="46.62162941" heading="191.653" title="Hallway" author="" source="" latitude="24.76814874"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-142.85" target="179.1/-5.3/70.0" distance="3.00037" description="" tilt="-1.55" url="{node17}" title="Hallway" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-322.95" target="41.7/-2.5/70.0" distance="2.86878" description="" tilt="-2.62" url="{node16}" title="Hallway" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input levelingpitch="0" height="3579" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3579">
+      <level height="3579" width="3579" predecode="0" preload="0"/>
+      <level height="1789" width="1789" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-22.844">
+      <start pan="-81.6732" projection="4" fov="70" tilt="0.640596"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681235,46.6216398,3a,75y,337.16h,90t/data=!3m4!1e1!3m2!1sCIABIhCBhKhbMoWoxcG6hoU85Lpd!2e10" comment="" nodeid="node17" description="" info="" datetime="2025-11-02 11:32" tags="drive-download-20251109T122555Z-1-001" longitude="46.62163980" heading="-22.844" title="Hallway" author="" source="" latitude="24.76812346"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-359.49" target="33.6/-3.5/70.0" distance="3.00037" description="" tilt="-1.2" url="{node6}" title="Hallway" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-61.35" target="16.6/0.7/70.0" distance="1.55829" description="" tilt="-1.23" url="{node13}" title="X Ray Room" id="Point02"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-179.15" target="-155.4/-2.8/70.0" distance="4.41038" description="" tilt="-0.4" url="{node5}" title="Hallway" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input levelingpitch="0" height="3580" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3580">
+      <level height="3580" width="3580" predecode="0" preload="0"/>
+      <level height="1790" width="1790" predecode="0" preload="0"/>
+      <level height="895" width="895" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="18.8728">
+      <start pan="-15.5256" projection="4" fov="70" tilt="0.0472337"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681238,46.6216552,3a,75y,18.87h,90t/data=!3m4!1e1!3m2!1sCIABIhDcL68PlzHrNRz0PutQ-nyk!2e10" comment="" nodeid="node13" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62165523" heading="18.8728" title="X Ray Room" author="" source="" latitude="24.76812377"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-208.1" target="0.0/0.0/70.0" distance="1.55829" description="" tilt="-0.89" url="{node17}" title="Hallway" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input levelingpitch="0" height="3577" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3577">
+      <level height="3577" width="3577" predecode="0" preload="0"/>
+      <level height="1788" width="1788" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="10.0432">
+      <start pan="-168.591" projection="4" fov="70" tilt="0.704086"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.768086,46.6216542,3a,75y,10.04h,90t/data=!3m4!1e1!3m2!1sCIABIhBGDaKluCRwP0tHVVLlKOha!2e10" comment="" nodeid="node5" description="" info="" datetime="2025-11-02 11:30" tags="drive-download-20251109T122555Z-1-001" longitude="46.62165422" heading="10.0432" title="Hallway" author="" source="" latitude="24.76808602"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-178.44" target="173.0/-8.1/70.0" distance="4.92329" description="" tilt="0.34" url="{node4}" title="Hallway" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-332.71" target="2.5/-0.5/70.0" distance="4.41038" description="" tilt="-0.69" url="{node17}" title="Hallway" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input levelingpitch="0" height="3576" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3576">
+      <level height="3576" width="3576" predecode="0" preload="0"/>
+      <level height="1788" width="1788" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-255.575">
+      <start pan="-167.491" projection="4" fov="70" tilt="-0.358997"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.768072,46.621608,3a,75y,104.43h,90t/data=!3m4!1e1!3m2!1sCIABIhBJGWSDn6xIhKgMiGg2cEFA!2e10" comment="" nodeid="node4" description="" info="" datetime="2025-11-09 17:34" tags="drive-download-20251109T122555Z-1-001" longitude="46.62160796" heading="-255.575" title="Hallway" author="" source="" latitude="24.76807202"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-318.4" target="26.8/-4.9/70.0" distance="4.92329" description="" tilt="0.13" url="{node5}" title="Hallway" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-204.04" target="-165.1/0.1/70.0" distance="3.64553" description="" tilt="-2.06" url="{node18}" title="Hallway" id="Point02"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-68.67" target="-37.0/-15.8/70.0" distance="1.80065" description="" tilt="0.06" url="{node10}" title="Clinic 05" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input levelingpitch="0" height="3578" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3578">
+      <level height="3578" width="3578" predecode="0" preload="0"/>
+      <level height="1789" width="1789" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-254.102">
+      <start pan="-21.2796" projection="4" fov="70" tilt="-19.6902"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7680598,46.6215962,3a,75y,105.9h,90t/data=!3m4!1e1!3m2!1sCIABIhAhfh0hZUtnjKmJTQEkjxuo!2e10" comment="" nodeid="node10" description="" info="" datetime="2025-11-09 17:34" tags="drive-download-20251109T122555Z-1-001" longitude="46.62159622" heading="-254.102" title="Clinic 05" author="" source="" latitude="24.76805983"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-298.02" target="31.9/-8.8/70.0" distance="1.80065" description="" tilt="-0.89" url="{node4}" title="Hallway" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input levelingpitch="0" height="3578" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3578">
+      <level height="3578" width="3578" predecode="0" preload="0"/>
+      <level height="1789" width="1789" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-182.046">
+      <start pan="-165.943" projection="4" fov="70" tilt="-1.82054"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681025,46.6215945,3a,75y,177.95h,90t/data=!3m4!1e1!3m2!1sCIABIhA_6CyzWiCLC8GOAmWW6bOM!2e10" comment="" nodeid="node18" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62159455" heading="-182.046" title="Hallway" author="" source="" latitude="24.76810246"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-74.53" target="92.7/-11.6/70.0" distance="3.77315" description="" tilt="-0.94" url="{node9}" title="Clinic 04" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-310.83" target="34.5/-1.0/70.0" distance="3.64553" description="" tilt="-1.21" url="{node4}" title="Hallway" id="Point02"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-165.61" target="165.2/-6.0/70.0" distance="2.99747" description="" tilt="-1.6" url="{node19}" title="Hallway" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input levelingpitch="0" height="3576" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3576">
+      <level height="3576" width="3576" predecode="0" preload="0"/>
+      <level height="1788" width="1788" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-82.9929">
+      <start pan="120.841" projection="4" fov="70" tilt="-6.72565"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7680903,46.6215597,3a,75y,277.01h,90t/data=!3m4!1e1!3m2!1sCIABIhBT6FnyymvUyM-1zsEmXxST!2e10" comment="" nodeid="node9" description="" info="" datetime="2025-11-09 17:34" tags="drive-download-20251109T122555Z-1-001" longitude="46.62155967" heading="-82.9929" title="Clinic 04" author="" source="" latitude="24.76809028"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-144.79" target="37.2/-14.6/70.0" distance="3.77315" description="" tilt="-1.85" url="{node18}" title="Hallway" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node19">
+    <input levelingpitch="0" height="3580" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3580">
+      <level height="3580" width="3580" predecode="0" preload="0"/>
+      <level height="1790" width="1790" predecode="0" preload="0"/>
+      <level height="895" width="895" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-215.182">
+      <start pan="165.099" projection="4" fov="70" tilt="-0.131727"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.768128,46.6215852,3a,75y,144.82h,90t/data=!3m4!1e1!3m2!1sCIABIhCSwYETQ7Xj57ZjAxJlVacx!2e10" comment="" nodeid="node19" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62158515" heading="-215.182" title="Hallway" author="" source="" latitude="24.76812803"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-283.17" target="16.6/-19.4/70.0" distance="2.17311" description="" tilt="-3.78" url="{node8}" title="Clinic 07" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-13.43" target="10.8/-3.9/70.0" distance="2.99747" description="" tilt="-1.63" url="{node18}" title="Hallway" id="Point02"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-194.97" target="-156.4/-6.5/70.0" distance="3.9488" description="" tilt="-0.98" url="{node20}" title="Hallway" id="Point03"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-54.36" target="-40.8/-11.5/70.0" distance="3.66542" description="" tilt="-2.12" url="{node7}" title="Clinic 03" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input levelingpitch="0" height="3578" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3578">
+      <level height="3578" width="3578" predecode="0" preload="0"/>
+      <level height="1789" width="1789" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-223.863">
+      <start pan="-22.4263" projection="4" fov="70" tilt="-18.1673"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681189,46.6215503,3a,75y,136.14h,90t/data=!3m4!1e1!3m2!1sCIABIhAvVCY_48D2GQwaAkkvMGFf!2e10" comment="" nodeid="node7" description="" info="" datetime="2025-11-09 17:34" tags="drive-download-20251109T122555Z-1-001" longitude="46.62155027" heading="-223.863" title="Clinic 03" author="" source="" latitude="24.76811889"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-309.82" target="166.4/-6.6/70.0" distance="3.66542" description="" tilt="-1.49" url="{node19}" title="Hallway" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input levelingpitch="0" height="3576" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3576">
+      <level height="3576" width="3576" predecode="0" preload="0"/>
+      <level height="1788" width="1788" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-76.5574">
+      <start pan="26.0358" projection="4" fov="70" tilt="-24.9409"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681399,46.6216022,3a,75y,283.44h,90t/data=!3m4!1e1!3m2!1sCIABIhBkauH_87AdFYSpXstXAoDT!2e10" comment="" nodeid="node8" description="" info="" datetime="2025-11-09 17:34" tags="drive-download-20251109T122555Z-1-001" longitude="46.62160224" heading="-76.5574" title="Clinic 07" author="" source="" latitude="24.76813991"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-307.62" target="165.4/-3.7/70.0" distance="2.17311" description="" tilt="-1.56" url="{node19}" title="Hallway" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node20">
+    <input levelingpitch="0" height="3580" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3580">
+      <level height="3580" width="3580" predecode="0" preload="0"/>
+      <level height="1790" width="1790" predecode="0" preload="0"/>
+      <level height="895" width="895" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-165.811">
+      <start pan="153.598" projection="4" fov="70" tilt="-16.7175"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681609,46.6215704,3a,75y,194.19h,90t/data=!3m4!1e1!3m2!1sCIABIhB1czjwQHqT7VV62GkBkno6!2e10" comment="" nodeid="node20" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62157040" heading="-165.811" title="Hallway" author="" source="" latitude="24.76816092"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-330.4" target="-12.2/-6.1/70.0" distance="3.9488" description="" tilt="-1.6" url="{node19}" title="Hallway" id="Point01"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-163.84" target="-75.6/0.6/70.0" distance="5.52489" description="" tilt="-3.3" url="{node1}" title="Reception" id="Point02"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-59.52" target="-81.5/-20.7/70.0" distance="2.55375" description="" tilt="-2.68" url="{node14}" title="Clinic 01" id="Point03"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-235.55" target="-136.7/-3.1/70.0" distance="5.18949" description="" tilt="-2.57" url="{node16}" title="Hallway" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input levelingpitch="0" height="3579" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="3579">
+      <level height="3579" width="3579" predecode="0" preload="0"/>
+      <level height="1789" width="1789" predecode="0" preload="0"/>
+      <level height="894" width="894" predecode="0" preload="0"/>
+      <level height="447" width="447" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-175.859">
+      <start pan="-88.5039" projection="4" fov="70" tilt="-6.35347"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@24.7681731,46.6215489,3a,75y,184.14h,90t/data=!3m4!1e1!3m2!1sCIABIhDy7eLLwHKm_9JvjfAJPN4K!2e10" comment="" nodeid="node14" description="" info="" datetime="" tags="drive-download-20251109T122555Z-1-001" longitude="46.62154895" heading="-175.859" title="Clinic 01" author="" source="" latitude="24.76817309"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" backgroundcolor="0xffffff" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" border="1" width="180" borderalpha="1" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node_round_pulse" pan="-255.06" target="29.6/-2.5/70.0" distance="2.55375" description="" tilt="-2.65" url="{node20}" title="Hallway" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" type="crossdissolve" delay="none" zoomafterinfov="90" zoomfov="20" enabled="1"/>
+    <autorotate enabled="1" nodefilter="" speed="0.050" returntohorizon="0.000" useanimation="0" startloaded="0" horizonfromdefview="0" delay="5.00" noderandom="1" nodedelay="0.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" hideabout="1" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" invertwheel="1" sensitivity="10" zoomcentercursor="1" contextvr="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" tags="" title="" author="" comment="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <translations>
+      <json>{"languages":["ar"],"projectLanguage":"en-IN","translations":{"2025-11-02 11:30":[""],"2025-11-02 11:32":[""],"2025-11-09 14:20":[""],"2025-11-09 17:34":[""],"Clinic 01":["عيادة 01"],"Clinic 03":["عيادة 03"],"Clinic 04":["عيادة 04"],"Clinic 05":["عيادة 05"],"Clinic 07":["عيادة 07"],"Enter Fullscreen":["أدخل ملء الشاشة"],"Enter VR":["أدخل الواقع الافتراضي"],"Entrance":["مدخل"],"Exit Fullscreen":["الخروج من وضع ملء الشاشة"],"Hallway":["المدخل"],"Photo Lab":["مختبر الصور"],"Reception":["استقبال"],"X Ray Room":["غرفة الأشعة السينية"]}}</json>
+      <projecttranslation langcode="en-IN" langname="English"/>
+      <projecttranslation langcode="ar" langname="العربية"/>
+    </translations>
+  </masternode>
+</tour>
